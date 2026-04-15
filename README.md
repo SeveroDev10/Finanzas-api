@@ -27,5 +27,6 @@ python main.py
 
 
 <img width="1039" height="951" alt="Captura de pantalla 2026-04-14 202619" src="https://github.com/user-attachments/assets/ef283dbe-f665-43a6-9ef0-0c5fb64aa204" /> <img width="1024" height="637" alt="Captura de pantalla 2026-04-14 202647" src="https://github.com/user-attachments/assets/7c76a78b-d67f-4c1a-966c-71fcec0a739f" />
+
 <img width="1042" height="661" alt="finanzas faciles 11111" src="https://github.com/user-attachments/assets/2fd06ebe-8f36-4d23-9d43-a4c13b7765e3" />
 
